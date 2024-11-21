@@ -1,0 +1,62 @@
+
+
+
+[
+    {
+      "Date": "2024-11-21",
+      "Time": "12:30:00",
+      "TimeZoneOffset": 3,
+      "Coordinates": "52.379189,4.900227",
+      "WaterTemp": 18.5,
+      "AirTemp": 22.0,
+      "Humidity": 65.0,
+      "WindSpeed": 5.4,
+      "WindDirection": 90,
+      "Precipitation": 0.0,
+      "Haze": 2.5,
+      "Becquerel": 1.2
+    },
+    {
+      "Date": "2024-11-21",
+      "Time": "15:45:00",
+      "TimeZoneOffset": 3,
+      "Coordinates": "52.379189,4.900227",
+      "WaterTemp": 19.0,
+      "AirTemp": 24.0,
+      "Humidity": 60.0,
+      "WindSpeed": 6.0,
+      "WindDirection": 180,
+      "Precipitation": 0.1,
+      "Haze": 1.0,
+      "Becquerel": 1.0
+    },
+    {
+      "Date": "2024-11-21",
+      "Time": "18:00:00",
+      "TimeZoneOffset": 3,
+      "Coordinates": "52.379189,4.900227",
+      "WaterTemp": 17.0,
+      "AirTemp": 20.0,
+      "Humidity": 70.0,
+      "WindSpeed": 4.5,
+      "WindDirection": 270,
+      "Precipitation": 0.0,
+      "Haze": 3.0,
+      "Becquerel": 0.8
+    },
+    {
+      "Date": "2024-11-21",
+      "Time": "21:15:00",
+      "TimeZoneOffset": 3,
+      "Coordinates": "52.379189,4.900227",
+      "WaterTemp": 16.5,
+      "AirTemp": 18.0,
+      "Humidity": 75.0,
+      "WindSpeed": 3.0,
+      "WindDirection": 45,
+      "Precipitation": 0.0,
+      "Haze": 4.0,
+      "Becquerel": 1.5
+    }
+  ]
+  
